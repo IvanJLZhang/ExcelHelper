@@ -1,0 +1,6 @@
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\bin\Debug\ExcelOperation.dll
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\bin\Debug\ExcelOperation.pdb
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.csproj.ResolveComReference.cache
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.dll
+c:\users\ivanjl\documents\visual studio 2012\Projects\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.pdb
